@@ -1,0 +1,33 @@
+{
+	"devDependencies": {
+		"@types/node": "^18.13.0"
+	},
+	"name": "mikrayer",
+	"version": "1.0.0",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"bedrock-protocol": "^3.23.0",
+		"bedrock-provider": "^3.0.0",
+		"event": "^1.0.0",
+		"minecraft-data": "^3.27.0",
+		"ml-q-learning": "^0.0.15",
+		"morton": "^1.0.2",
+		"prismarine-block": "^1.16.3",
+		"prismarine-chunk": "^1.33.0",
+		"prismarine-entity": "^2.2.0",
+		"prismarine-physics": "^1.6.0",
+		"prismarine-registry": "^1.7.0",
+		"ts-node": "^10.9.1",
+		"typescript": "^4.9.5",
+		"vec3": "^0.1.7",
+		"winston": "^3.8.2"
+	}
+}
